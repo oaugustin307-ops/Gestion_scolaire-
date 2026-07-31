@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Autorise le trafic HTTP en clair (non chiffré) pour le développement local.
+    On autorise ici TOUT le trafic en clair (base-config) car en phase de dev,
+    l'adresse IP du PC peut changer selon le réseau utilisé (campus, mobile, maison...).
+    Pour la production, retirez ce fichier et utilisez HTTPS.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">10.0.2.2</domain>
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">127.0.0.1</domain>
+    </domain-config>
+</network-security-config>

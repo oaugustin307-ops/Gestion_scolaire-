@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# Lance Gradle via le wrapper (Linux/Mac).
+# Si ce script ne fonctionne pas tel quel, ouvre simplement le projet
+# dans Android Studio : il régénérera automatiquement le wrapper Gradle.
+exec gradle "$@"

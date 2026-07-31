@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_item_recent_grade.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\item_recent_grade.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_activity_grades.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\activity_grades.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_item_child.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\item_child.xml"
+    },
+    {
+        "merged": "bf.ujkz.schoolconnect.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "bf.ujkz.schoolconnect.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "bf.ujkz.schoolconnect.app-debug-36:/layout_activity_child_dashboard.xml.flat",
+        "source": "bf.ujkz.schoolconnect.app-main-38:/layout/activity_child_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_activity_attendance.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "bf.ujkz.schoolconnect.app-debug-36:/layout_activity_payments.xml.flat",
+        "source": "bf.ujkz.schoolconnect.app-main-38:/layout/activity_payments.xml"
+    },
+    {
+        "merged": "bf.ujkz.schoolconnect.app-debug-36:/layout_item_payment.xml.flat",
+        "source": "bf.ujkz.schoolconnect.app-main-38:/layout/item_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_item_grade_row.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\item_grade_row.xml"
+    },
+    {
+        "merged": "bf.ujkz.schoolconnect.app-debug-36:/layout_dialog_declare_payment.xml.flat",
+        "source": "bf.ujkz.schoolconnect.app-main-38:/layout/dialog_declare_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_item_notification.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "bf.ujkz.schoolconnect.app-debug-36:/xml_network_security_config.xml.flat",
+        "source": "bf.ujkz.schoolconnect.app-main-38:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_activity_notifications.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\activity_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_activity_payments.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\activity_payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_item_attendance.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\item_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_activity_child_dashboard.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\activity_child_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-debug-36:\\layout_item_payment.xml.flat",
+        "source": "C:\\Users\\HP 840G\\.gradle\\daemon\\8.7\\bf.ujkz.schoolconnect.app-main-38:\\layout\\item_payment.xml"
+    }
+]
